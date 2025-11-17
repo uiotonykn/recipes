@@ -4,4 +4,6 @@
 *lime 4kr
 *salt 10kr
 ## Instructions
-*Peel the avocados
+<<<<<<< HEAD
+*Peel the avocados and put them into a bowl.
+
